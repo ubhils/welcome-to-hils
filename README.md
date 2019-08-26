@@ -6,7 +6,7 @@
 This is your launching pad to get started working at HILS lab
 
 # Why this repository
- Starting to work directly in a research lab can be overwhelming sometimes (we are all humans!). This repository is to help you make the transition into HILS lab more enjoyable. 
+ Starting to work directly in a research lab can be overwhelming sometimes (we are all humans!). This repository is to help you make the transition into HILS lab more enjoyable.
 
  The repository contains basic things such are introduction to some specific python modules which are heavily used with in the lab, guides,
  some references to very good journal papers and lot more:exclamation:
@@ -28,7 +28,7 @@ The HILS Lab meetings are approximately weekly from 2pm to 4pm on Mondays (might
 ![](https://media.giphy.com/media/rYEAkYihZsyWs/giphy.gif)
 
 
-> *This is a work in progress...WE really hope you can shape and improve this experience as you learn!*
+> *This is a work in progress...We really hope you can shape and improve this experience as you learn!*
 
 
 > *The material in Dr. Mystery's Lab Guide is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Dr. Mystery's Lab Guide is licensed under CC BY 4.0 by Hemanth Manjunatha*
