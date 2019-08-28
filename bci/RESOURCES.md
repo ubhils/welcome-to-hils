@@ -14,3 +14,13 @@ alt="Introduction to BCI" width="240" height="180" border="10" /></a>
 # Books
 Amazing introduction to BCI
 > [Brain-computer interfacing : an introduction / Rajesh P.N. Rao.](https://search.lib.buffalo.edu/discovery/fulldisplay?docid=alma990038424030204803&context=L&vid=01SUNY_BUF:everything&search_scope=UBSUNY&tab=EverythingUBSUNY&lang=en)
+
+# Papers
+
+* [A revised glossary of terms most commonly used by clinical electroencephalographers and updated proposal for the report format of the EEG findings. Revision 2017](https://search.lib.buffalo.edu/discovery/fulldisplay?docid=sciversesciencedirect_elsevierS2467-981X(17)30021-5&context=PC&vid=01SUNY_BUF:everything&search_scope=UBSUNY&tab=EverythingUBSUNY&lang=en)
+
+* [Best Practices in Data Analysis and Sharing in Neuroimaging using MEEG.](https://osf.io/a8dhx/)
+
+* [A Reproducible MEG/EEG Group Study With the MNE Software: Recommendations, Quality Assessments, and Good Practices](https://www.frontiersin.org/articles/10.3389/fnins.2018.00530/full)
+
+* [EEG artifact removal—state-of-the-art and guidelines](https://search.lib.buffalo.edu/discovery/fulldisplay?docid=iop10.1088/1741-2560/12/3/031001&context=PC&vid=01SUNY_BUF:everything&search_scope=UBSUNY&tab=EverythingUBSUNY&lang=en)

@@ -31,4 +31,4 @@ The HILS Lab meetings are approximately weekly from 2pm to 4pm on Mondays (might
 > *This is a work in progress...We really hope you can shape and improve this experience as you learn!*
 
 
-> *The material in Dr. Mystery's Lab Guide is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Dr. Mystery's Lab Guide is licensed under CC BY 4.0 by Hemanth Manjunatha*
+> *The material in this repository is inspired and partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. HILS lab guide is licensed under CC BY 4.0 by Hemanth Manjunatha*
