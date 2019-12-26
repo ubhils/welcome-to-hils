@@ -7,7 +7,7 @@ If you are new to python programming, definitely take [Introduction to Computer 
 
 
 * [HackerRank](https://www.hackerrank.com/dashboard)
-HackerRank has lot of resources to learn many programming languages. Regestration is free. 
+HackerRank has lot of resources to learn many programming languages. Regestration is free.
 
 * [LeetCode](https://leetcode.com)
 LeetCode is much intensive platform to learn coding. It can be used if you want to prepare for interviews.
@@ -16,7 +16,7 @@ LeetCode is much intensive platform to learn coding. It can be used if you want 
 ## Videos
 PyCon is one of the best way to get in touch with great Python community. Lot of great talks and tutorials (highly recommended!).
 
-Pycon 2018 
+Pycon 2018
 <a href="https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ" target="_blank"><img src="http://img.youtube.com/vi/79AIzbjLzdk/0.jpg"
 alt="Introduction to BCI" width="240" height="180" border="5" /></a>
 
@@ -28,3 +28,43 @@ alt="Introduction to BCI" width="240" height="180" border="5" /></a>
 In the lab we extensively use [Pytroch](https://pytorch.org) for implementation of Deep learning algorithms. Below are some resources for Pytorch
 
 A github repository with lot of resources: [The incredible Pytorch](https://github.com/ritchieng/the-incredible-pytorch)
+
+### Pytorch Related Links
+* https://github.com/pytorch/ignite/
+* https://github.com/williamFalcon/pytorch-lightning
+* https://github.com/astooke/rlpyt
+* https://github.com/szymonmaszke/torchfunc
+* https://github.com/wkentaro/pytorch-for-numpy-users
+* https://github.com/awwong1/torchprof
+* https://github.com/suriyadeepan/torchtest
+
+
+## Links
+### General Programming
+* http://pythontutor.com
+* https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/
+* https://opensource.guide
+* https://pyvideo.org
+* https://github.com/satwikkansal/wtfpython
+* https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
+* https://jalammar.github.io/visual-numpy/
+
+### Data Science Related
+* https://github.com/rasbt/mlxtend
+* https://github.com/slundberg/shap
+* https://github.com/ericmjl/pyjanitor
+* https://esa.github.io/pagmo2/index.html
+* https://github.com/modin-project/modin
+* https://docs.metaflow.org
+* https://perceptilabs.readme.io/docs/welcome
+
+### Misc
+* https://github.com/ray-project/ray (A very good parallel processing library)
+
+
+
+
+
+
+
+
