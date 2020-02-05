@@ -7,5 +7,5 @@
 # Usefull Links
 * https://lefticus.gitbooks.io/cpp-best-practices/content/
 * https://github.com/isocpp/CppCoreGuidelines
-
+* http://101.lv/learn/C++/
 
